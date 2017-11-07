@@ -1,3 +1,5 @@
+CREATED THIS BRANCH BECAUSE MASTER REMOVES DEPRECATED REACT NATIVE LOGIC AROUND INSTANTIATING AN ABSTRACT CLASS.  THIS BRANCH WAS CREATED OFF OF THE PRIOR COMMIT, AND OUR IOS PAUSE LOGIC WAS CHERRY-PICKED IN
+
 ![banner](/banner.png)
 
 [![npm version](https://badge.fury.io/js/react-native-audio-toolkit.svg)](https://badge.fury.io/js/react-native-audio-toolkit)
